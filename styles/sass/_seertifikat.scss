@@ -1,0 +1,30 @@
+
+.contener{
+max-width: 1200px;
+width: 100%;
+margin-left: auto;
+margin-right: auto;
+}
+.sertifikat{
+   
+    .font_ser{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        gap: 100px;
+
+    }
+    .rent{
+        font-size: 25px;
+    }
+    .reliti{
+        width: 402px;
+        font-size: 16px;
+        padding-top: 30px;
+    }
+    .sent{
+        font-size: 44px;
+        padding-left: 80px;
+        margin-bottom: 20px;
+    }
+}

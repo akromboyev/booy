@@ -1,0 +1,21 @@
+@import "navbar";
+@import "se";
+// @import "section";
+@import"section4";
+@import"saction2";
+@import"bepuldarslik";
+@import"Bizningjamoa";
+@import"seertifikat";
+
+@import"footer";
+
+.contener {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;    
+}
